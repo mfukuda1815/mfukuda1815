@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Mayo! I'm a data analytics enthusiast with strong technical skills in Excel, Tableau, PowerBI, SQL, and Python, combined with a business-oriented mindset that helps me analyze complex problems holistically. With 3 years of experience in project management and client success, I’ve built a strong foundation in stakeholder communication, problem-solving, and strategic execution. My mission is to bridge the gap between technical solutions and business needs by leveraging data analytics, AI, and process automation. 
+I'm Mayo! I'm a human centered, result driven business data professional with strong technical skills in Excel, Tableau, PowerBI, SQL, and Python, combined with a business-oriented mindset that helps me analyze complex problems holistically. With 3 years of experience in project management and client success, I’ve built a strong foundation in stakeholder communication, problem-solving, and strategic execution. My mission is to bridge the gap between technical solutions and business needs by leveraging data analytics, AI, and process automation. 
 
 I just completed Master’s in Business Analytics and Information Systems at the University of South Florida. I'm passionate about leveraging data to drive business growth, optimize operations, and support strategic decision-making.
 
