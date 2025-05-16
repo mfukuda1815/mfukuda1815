@@ -8,6 +8,11 @@ Beyond data analytics and visualizations, I love experimenting in the kitchen, a
 
 If you're interested in data analytics, data visualizations, AI, and machine learning, let’s connect! 🚀
 
+🖥️ Skills: Tableau, Python, SQL, Microsoft Excel
+📚 Cerifications: Tableau Certified Data Analyst, AWS Cloud Practitioner 
+🎓 Master of Science in Business Analytics and Information Systems @University of South Florida
+🤝 Soft Skills: Growth Mindset, Teamwork, Goal Oriented
+
 <!--
 **mfukuda1815/mfukuda1815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
